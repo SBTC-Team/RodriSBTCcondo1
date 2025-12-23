@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Consulcon.Domain/1.0.0": {
+        "runtime": {
+          "Consulcon.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consulcon.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
